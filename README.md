@@ -1,2 +1,2 @@
-# Aide-la-d-cision-m-dicale
+# Aide a la decision medicale
 Raisonnement a partir un cas - intelligence artificielle
